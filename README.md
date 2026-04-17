@@ -24,13 +24,15 @@ git clone https://github.com/CocoNoname/Sydney-Opera-House-3D-Unity.git
 4. Kliknite na „Add project“ (Pridať projekt)
 5. Vyberte priečinok s naklonovaným projektom
 6. Otvorte projekt v správnej verzii Unity
+7. Po načítaní projektu v Unity otvorte hlavnú scénu: `Assets/Scenes/SampleScene.unity`.
 
-Po otvorení Unity automaticky vygeneruje chýbajúce priečinky (napr. Library).
+Po otvorení Unity automaticky vygeneruje chýbajúce priečinky.
 
 ### Poznámky
 
 * Veľké súbory sú spravované pomocou Git LFS
 * Bez Git LFS nemusia byť niektoré modely alebo assety načítané správne
+* Git zablokoval Nahranie Builu, keďže velkosť súboru je príliš veľká.
 
 ---
 
